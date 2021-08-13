@@ -10,5 +10,4 @@
 *.htm*
 *.uvgu*
 *.uvop*
-*.txt
-*.bak
+obj
